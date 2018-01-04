@@ -1,0 +1,6 @@
+
+git init
+git add name
+git commit -m "备注"
+git remote add origin https://"仓库地址" only one  
+git push -u origin master

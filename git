@@ -3,4 +3,4 @@ git init
 git add name
 git commit -m "备注"
 git remote add origin https://"仓库地址" only one  
-git push -u origin master
+git push -u origin master (提交一次后就可省略 -u 参数)
